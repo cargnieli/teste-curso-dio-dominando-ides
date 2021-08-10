@@ -11,6 +11,9 @@ public class PrimeiroPrograma {
         Gato gato = new Gato("Jose Augusto", "vermelho", 33);
         System.out.println(gato);
 
+        Gato gato1 = new Gato("Fred", "preto", 22);
+        System.out.println(gato1);
+
         Livro livro1 = new Livro("O problema dos 3 corpos", 300);
         System.out.println(livro1);
 
